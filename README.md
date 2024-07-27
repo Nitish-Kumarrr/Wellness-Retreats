@@ -9,7 +9,7 @@
    **?location=pune**- Filter all the retreats based on the provided location
    **?page=1&limit=5**- Filter all the retreats from page 1 to 5.
 
-5.Implemented **Pagination functionality** - Implemented functionality where we can **see only the Retreats per page**. Created button previous and next to move the previous and next pages respectively. 
+5.Implemented **Pagination functionality** - Implemented functionality where we can **see only three Retreats per page**. Created button previous and next to move the previous and next pages respectively. 
 Note-  **previous Button will not be visible on first Page and next will not be visible on last Page**
 
 6.Proper **State Management** has been done.
